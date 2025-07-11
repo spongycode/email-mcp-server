@@ -1,4 +1,5 @@
-## Email MCP Server – Lightweight Multi-Recipient Mail Sender
+# Email MCP Server – Lightweight Multi-Recipient Mail Sender
+## Demo:
 <p align="center"> 
   <img src="https://github.com/user-attachments/assets/5c1db1d6-bf89-43d5-ba8a-4b517f1e1068" width="90%" title="demo using google gemini cli"/>
 </p>
